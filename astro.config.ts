@@ -49,3 +49,4 @@ export default defineConfig({
     enabled: false
   }
 })
+adapter: cloudflare()
